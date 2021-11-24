@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritik97
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently working on Vue.js, React.js, Node.js, MongoDB 
+- 🌱 I’m currently working on Vue.js, React.js, Node.js, MongoDB, Mongoose, Micro Services 
 - 💞️ I’m looking to collaborate on React.js, Node.js, Vue.js and MongoDB 
 - 📫 How to reach me ritiksinha91@gmail.com
 
